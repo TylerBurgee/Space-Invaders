@@ -1,3 +1,9 @@
+"""
+Name: Space Invaders
+Author: Joey Burgee
+Date: March 4, 2018
+"""
+
 # IMPORT MODULES
 import pygame as pg
 import random
